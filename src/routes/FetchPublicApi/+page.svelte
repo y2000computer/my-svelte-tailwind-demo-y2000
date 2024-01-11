@@ -22,7 +22,7 @@
 
         <div class="mt-4 md:mt-0 md:ml-6">
             <div class="uppercase tracking-wide text-sm font-bold">
-             {post.headline}
+             elogs Hello {post.headline}
               <div class="mt-2 text-gray-600">
                 {post.content}
               </div>            

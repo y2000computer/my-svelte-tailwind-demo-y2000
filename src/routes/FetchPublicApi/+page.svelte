@@ -22,7 +22,7 @@
 
         <div class="mt-4 md:mt-0 md:ml-6">
             <div class="uppercase tracking-wide text-sm font-bold">
-              2024-01-11{post.headline}
+             {post.headline}
               <div class="mt-2 text-gray-600">
                 {post.content}
               </div>            
